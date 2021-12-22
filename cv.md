@@ -41,3 +41,10 @@ I am currently working on a courier mobile app (Angular) working in parallel
 
 *  Best Road Investment – __Frontend(november 2020 - July 2021).__
 *  HappyTach – __Frontend(July 2021).__
+
+
+## Languages
+
+* Russian
+* Kazakh
+* English (A1)
