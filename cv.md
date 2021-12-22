@@ -31,6 +31,27 @@ I am currently working on a courier mobile app (Angular) working in parallel
 * Editors: Sublime(3), Webstorm, VSCode.
 
 
+## Code examples
+
+
+```
+function highAndLow(numbers){
+ const arr =numbers.split(' ');
+  const max = arr[0],min =arr[0];
+  for(let i = 0;i<arr.length;i++){
+    if(parseInt(arr[i]) > max){
+      max = arr[i];
+    }
+    if(parseInt(arr[i]) < min){
+      min = arr[i]
+    }
+  }
+  let result = max + ' ' + min;
+  return result;
+}
+```
+
+
 ## Education
 
 * Bachelor of Omsk State Technical University, Omsk
