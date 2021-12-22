@@ -16,6 +16,7 @@
 I am currently working on a courier mobile app (Angular) working in parallel
  over several small web projects (example: [LogicMath.kz](https://logicmath.kz/) / [Happycake.kz](https://happycake.kz/)). My goal is to learn everything new in programming. I can (love) spend a lot of time doing what I'm interested in. My strengths are problem solving and fast learning. I want to gain knowledge and skills that are enough to work in the company.
 
+
  ## Skills
 
 * HTML
@@ -28,3 +29,15 @@ I am currently working on a courier mobile app (Angular) working in parallel
 * Windows OS, Linux(Mint)
 * Figma(for web development)
 * Editors: Sublime(3), Webstorm, VSCode.
+
+
+## Education
+
+* Bachelor of Omsk State Technical University, Omsk
+    * Faculty of Information Technology and Computer Systems
+
+
+## Experience
+
+*  Best Road Investment – __Frontend(november 2020 - July 2021).__
+*  HappyTach – __Frontend(July 2021).__
