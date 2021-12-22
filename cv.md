@@ -15,3 +15,16 @@
 
 I am currently working on a courier mobile app (Angular) working in parallel
  over several small web projects (example: [LogicMath.kz](https://logicmath.kz/) / [Happycake.kz](https://happycake.kz/)). My goal is to learn everything new in programming. I can (love) spend a lot of time doing what I'm interested in. My strengths are problem solving and fast learning. I want to gain knowledge and skills that are enough to work in the company.
+
+ ## Skills
+
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, ES6+,DOM,JSON.
+* React , Redux (initial level of knowledge).
+* Angular (average level of knowledge).
+* Version control: Git (remote service GitHub).
+* Module Bundlers: Gulp, Webpack.
+* Windows OS, Linux(Mint)
+* Figma(for web development)
+* Editors: Sublime(3), Webstorm, VSCode.
