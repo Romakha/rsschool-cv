@@ -4,9 +4,85 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Kanit&family=Noto+Sans+SC:wght@400;500;700&family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
-    
+    <header>
+        <div class="container">
+            <div class="header">
+                <h2 class="txt-gold">ROMAN Cv</h2>
+
+                <nav class="nav-menu">
+                    <ul class="header-list">
+                        <li class="header-item">
+                            <a href="#home">
+                                <h3 class="txt-gold">HOME</h3>
+                            </a>
+                        </li>
+                        <li class="header-item">
+                            <a href="#about">
+                                <h3>ABOUT ME</h3>
+                            </a>
+                        </li>
+                        <li class="header-item">
+                            <a href="#skills">
+                                <h3>SKILLS</h3>
+                            </a>
+                        </li>
+                        <li class="header-item">
+                            <a href="#portfolio">
+                                <h3>PORTFOLIO</h3>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <div onclick="mobilMenuOpen()" class="btn-burger">
+                    <img src="img/burger-menu.svg" alt="">
+                </div>
+
+                <div id="mobilMenu" class="mobil-menu">
+                    <nav class="mobil-nav-menu">
+                        <ul class="mobil-list">
+                            <li class="mobil-item">
+                                <a href="#home">
+                                    <h3 onclick="mobilMenuClose()">HOME</h3>
+                                </a>
+                            </li>
+                            <li class="mobil-item">
+                                <a href="#about">
+                                    <h3 onclick="mobilMenuClose()">ABOUT ME</h3>
+                                </a>
+                            </li>
+                            <li class="mobil-item">
+                                <a href="#skills">
+                                    <h3 onclick="mobilMenuClose()">SKILLS</h3>
+                                </a>
+                            </li>
+                            <li class="mobil-item">
+                                <a href="#portfolio">
+                                    <h3 onclick="mobilMenuClose()">PORTFOLIO</h3>
+                                </a>
+                            </li>
+                        </ul>
+                        <div onclick="mobilMenuClose()" class="menu-close">
+                            <img src="img/menu-close.svg" alt="">
+                            <p class="txt-gold">close menu</p>
+                        </div>
+                    </nav> 
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+    </main>
 </body>
 </html>
