@@ -83,6 +83,55 @@
 
     <main>
 
+        <section class="section-home">
+            <a name="home"></a>
+            <div class="container">
+                <div class="home">
+                    <div class="home-info">
+                        <h3 class="txt-gold title">Hello, I`am</h3>
+                        <h1>Polishchuk Roman <span class="txt-gold">/FRONTEND DEVELOPER</span></h1>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas incidunt cupiditate delectus sunt dignissimos obcaecati, explicabo magni ullam culpa odio.</p>
+
+                        <div class="home-btn-group">
+                            <a href="" class="btn-border">Phone Me</a>
+                            <a href="" class="btn-border">Download Cv</a>
+                        </div>
+
+                        <ul class="home-list">
+                            <li><a href=""><div class="home-block-icon"><img src="img/link.svg" alt=""></div></a></li>
+                            <li><a href=""><div class="home-block-icon"><img src="img/whatsapp.svg" alt=""></div></a></li>
+                            <li><a href=""><div class="home-block-icon"><img src="img/vk.svg" alt=""></div></a></li>
+                            <li><a href=""><div class="home-block-icon"><img src="img/facebook.svg" alt=""></div></a></li>
+                            <li><a href=""><div class="home-block-icon"><img src="img/github.svg" alt=""></div></a></li>
+                        </ul>
+                    </div>
+                    <div class="home-img">
+                        <div class="home-img_block">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+
     </main>
+
+
+
+    <script>
+        const mobilMenu = document.getElementById('mobilMenu');
+        const anchor = document.getElementsByClassName('anchor');
+        
+
+
+        function mobilMenuOpen() {
+            mobilMenu.classList.add('menuShow');
+        }
+        function mobilMenuClose() {
+            mobilMenu.classList.remove('menuShow');
+        }
+    </script>
 </body>
 </html>
